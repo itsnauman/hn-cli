@@ -6,9 +6,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/itsnauman/hacker-news-cli/api"
-	"github.com/itsnauman/hacker-news-cli/models"
-	"github.com/itsnauman/hacker-news-cli/output"
+	"github.com/itsnauman/hn-cli/api"
+	"github.com/itsnauman/hn-cli/models"
+	"github.com/itsnauman/hn-cli/output"
 )
 
 const Version = "0.1.0"

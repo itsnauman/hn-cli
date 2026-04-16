@@ -7,10 +7,10 @@ import (
 
 	arg "github.com/alexflint/go-arg"
 
-	"github.com/itsnauman/hacker-news-cli/api"
-	"github.com/itsnauman/hacker-news-cli/cmd"
-	"github.com/itsnauman/hacker-news-cli/models"
-	"github.com/itsnauman/hacker-news-cli/output"
+	"github.com/itsnauman/hn-cli/api"
+	"github.com/itsnauman/hn-cli/cmd"
+	"github.com/itsnauman/hn-cli/models"
+	"github.com/itsnauman/hn-cli/output"
 )
 
 type StoriesCmd struct {

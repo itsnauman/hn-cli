@@ -1,4 +1,4 @@
-module github.com/naumanahmad/hacker-news-cli
+module github.com/itsnauman/hacker-news-cli
 
 go 1.26.1
 

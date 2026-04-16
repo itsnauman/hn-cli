@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/naumanahmad/hacker-news-cli/models"
+	"github.com/itsnauman/hacker-news-cli/models"
 )
 
 // FetchItem fetches a single item by ID.

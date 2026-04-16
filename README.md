@@ -7,13 +7,13 @@ Defaults to [TOON](https://github.com/toon-format/toon) output, which uses ~40% 
 ## Install
 
 ```bash
-go install github.com/naumanahmad/hacker-news-cli@latest
+go install github.com/itsnauman/hacker-news-cli@latest
 ```
 
 Or build it yourself:
 
 ```bash
-git clone https://github.com/naumanahmad/hacker-news-cli.git
+git clone https://github.com/itsnauman/hacker-news-cli.git
 cd hacker-news-cli
 go build -o hn .
 ```

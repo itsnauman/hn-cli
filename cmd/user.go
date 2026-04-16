@@ -4,9 +4,9 @@ import (
 	"context"
 	"os"
 
-	"github.com/naumanahmad/hacker-news-cli/api"
-	"github.com/naumanahmad/hacker-news-cli/models"
-	"github.com/naumanahmad/hacker-news-cli/output"
+	"github.com/itsnauman/hacker-news-cli/api"
+	"github.com/itsnauman/hacker-news-cli/models"
+	"github.com/itsnauman/hacker-news-cli/output"
 )
 
 func RunUser(username string, client *api.Client, gf *GlobalFlags) int {

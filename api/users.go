@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/naumanahmad/hacker-news-cli/models"
+	"github.com/itsnauman/hacker-news-cli/models"
 )
 
 // FetchUser fetches a user profile by username.
